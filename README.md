@@ -33,12 +33,15 @@ I am pursuing my Master's in Statistics from RJ College. I have done my Bsc. in 
 - 👀 I’m interested in the field of Statistics,Data Analytics, Data Science and Machine Learning.
 - 🌱 I’m currently learning Statistics and different Statistical Techniques and Machine Learning  Algorithms.
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning, Data Analytics Projects.
+- I am currently looking for internship opportunities related to the field of statistics, Data Analytics &Machine learning
+- 💬 Ask me about: Statistics, Machine Learning
+- 📫 How to reach me: 
+Email - jaisinghchauhan1805@gmail.com&nbsp; 
+
+
+
 
 
 <h3 align="left">Views and Followers:</h3>
 <a href="https://github.com/jaisingh-chauhan/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=jaisingh-chauhan&color=blue&style=flat-square"></a>
 <a href="https://github.com/jaisingh-chauhan?tab=followers"><img src="https://img.shields.io/github/followers/jaisingh-chauhan?style=flat-square" alt="Github Badge"></a>
-- I am currently looking for internship opportunities related to the field of statistics, Data Analytics &Machine learning
-- 💬 Ask me about: Statistics, Machine Learning
-- 📫 How to reach me: 
-Email - jaisinghchauhan1805@gmail.com&nbsp; 
