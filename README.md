@@ -39,7 +39,17 @@ I am pursuing my Master's in Statistics from RJ College. I have done my Bsc. in 
 Email - jaisinghchauhan1805@gmail.com&nbsp; 
 
 
-[![Jaisingh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jaisingh-chauhan&theme=chartreuse-dark&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="left">Jaisingh's streak-stats:</h3>
+<p align="centre">
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=jaisingh-chauhan&theme=dark&count_private=true"/>
+  </a>
+</p>
+<br/>
+<h3 align="left">Jaisingh's Contribution Graph:</h3>
+<p align="centre">
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://activity-graph.herokuapp.com/graph?username=jaisingh-chauhan&theme=chartreuse-dark&count_private=true"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
