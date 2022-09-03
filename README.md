@@ -40,7 +40,11 @@ Email - jaisinghchauhan1805@gmail.com&nbsp;
 
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jaisingh-Chauhan"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"></a>
+<a href="https://github.com/jaisingh-chauhan"><img src="https://img.icons8.com/color-glass/48/000000/github.png"></a>
+</p>
 
 <h3 align="left">Views and Followers:</h3>
 <a href="https://github.com/jaisingh-chauhan/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=jaisingh-chauhan&color=blue&style=flat-square"></a>
