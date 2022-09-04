@@ -39,6 +39,11 @@ I am pursuing my Master's in Statistics from RJ College. I have done my Bsc. in 
 Email - jaisinghchauhan1805@gmail.com&nbsp; 
 
 
+<h3 align="left">Jaisingh's Github Stats:</h3>
+<div align="center">
+  <a href="https://github.com/jaisingh-chauhan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaisingh-chauhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<br/>
 <h3 align="left">Jaisingh's streak-stats:</h3>
 <p align="centre">
 <img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=jaisingh-chauhan&theme=dark&count_private=true"/>
