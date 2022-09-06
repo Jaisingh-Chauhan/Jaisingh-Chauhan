@@ -51,13 +51,13 @@ Email - jaisinghchauhan1805@gmail.com&nbsp;
 
 <h3 align="left">Jaisingh's streak-stats:</h3>
 <p align="centre">
-<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=jaisingh-chauhan&theme=react&count_private=true"/>
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=jaisingh-chauhan&theme=black-ice&count_private=true"/>
   </a>
 </p>
 <br/>
 <h3 align="left">Jaisingh's Contribution Graph:</h3>
 <p align="centre">
-<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://activity-graph.herokuapp.com/graph?username=jaisingh-chauhan&theme=react&count_private=true"/>
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://activity-graph.herokuapp.com/graph?username=jaisingh-chauhan&theme=chartreuse-dark&count_private=true"/>
   </a>
 </p>
 
