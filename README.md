@@ -42,7 +42,7 @@ Email - jaisinghchauhan1805@gmail.com&nbsp;
 <h3 align="left">Jaisingh Github Stats:</h3>
 <div align="center">
   <a href="https://github.com/jaisingh-chauhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaisingh-chauhan&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaisingh-chauhan&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisingh-chauhan&layout=compact&langs_count=7&theme=react"/>
 </div>
 
@@ -51,13 +51,13 @@ Email - jaisinghchauhan1805@gmail.com&nbsp;
 
 <h3 align="left">Jaisingh's streak-stats:</h3>
 <p align="centre">
-<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=jaisingh-chauhan&theme=dark&count_private=true"/>
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://github-readme-streak-stats.herokuapp.com/?user=jaisingh-chauhan&theme=react&count_private=true"/>
   </a>
 </p>
 <br/>
 <h3 align="left">Jaisingh's Contribution Graph:</h3>
 <p align="centre">
-<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://activity-graph.herokuapp.com/graph?username=jaisingh-chauhan&theme=chartreuse-dark&count_private=true"/>
+<img title="Get streak stats for your profile at git.io/streak-stats" alt="Jaisingh's streak" src ="https://activity-graph.herokuapp.com/graph?username=jaisingh-chauhan&theme=react&count_private=true"/>
   </a>
 </p>
 
