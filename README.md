@@ -41,9 +41,9 @@ Email - jaisinghchauhan1805@gmail.com&nbsp;
 
 <h3 align="left">Jaisingh Github Stats:</h3>
 <div align="center">
-  <a href="https://github.com/ashishrana1501">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaisingh-chauhan&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisingh-chauhan&layout=compact&langs_count=7&theme=Gradient"/>
+  <a href="https://github.com/jaisingh-chauhan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaisingh-chauhan&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisingh-chauhan&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 <br/>
