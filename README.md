@@ -43,7 +43,7 @@ Email - jaisinghchauhan1805@gmail.com&nbsp;
 <div align="left">
   <a href="https://github.com/jaisingh-chauhan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaisingh-chauhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+</div>&nbsp;
 <div align="right">
   <a href="https://github.com/jaisingh-chauhan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisingh-chauhan&layout=compact&langs_count=7&theme=dracula"/>
