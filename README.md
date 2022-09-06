@@ -40,11 +40,14 @@ Email - jaisinghchauhan1805@gmail.com&nbsp;
 
 
 <h3 align="left">Jaisingh's Github Stats:</h3>
-<div align="center">
+<div align="left">
   <a href="https://github.com/jaisingh-chauhan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaisingh-chauhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <br/>
+</div>
 <br/>
+<div align="left">
+  <a href="https://github.com/jaisingh-chauhan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisingh-chauhan&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h3 align="left">Jaisingh's streak-stats:</h3>
