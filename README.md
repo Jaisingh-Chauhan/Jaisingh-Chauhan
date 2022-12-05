@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">I am Jaisingh Chauhan.</h2>
 
-Currently, Looking for Internship Oppurtunities...
-
 I am a Statistician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mumbai, Maharashtra.
 
 I am pursuing my Master's in Statistics from RJ College. I have done my Bsc. in Statistics from SIES College of Arts, Science & Commerce with strong academic scores.
